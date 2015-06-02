@@ -1,0 +1,15 @@
+c:\users\stas\documents\visual studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\bin\Debug\ImportFromSQLCompact.exe.config
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\MainWindow.baml
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\MainWindow.g.cs
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\App.g.cs
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact_MarkupCompile.cache
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.g.resources
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.Properties.Resources.resources
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.csproj.GenerateResource.Cache
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\bin\Debug\ImportFromSQLCompact.exe
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\bin\Debug\ImportFromSQLCompact.pdb
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.exe
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.pdb
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact_MarkupCompile.lref
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.Resources.resources
+C:\Users\Stas\Documents\Visual Studio 2012\Projects\ImportFromSQLCompact\ImportFromSQLCompact\obj\Debug\ImportFromSQLCompact.csprojResolveAssemblyReference.cache

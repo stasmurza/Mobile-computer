@@ -1,0 +1,22 @@
+﻿<Window x:Class="ImportFromSQLCompact.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p="clr-namespace:ImportFromSQLCompact"
+        Title="Import from SQL Compact" SizeToContent="WidthAndHeight" MinHeight="100">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock HorizontalAlignment="Left" Margin="5,5,5,5" TextWrapping="Wrap" Text="SQL Compact file:" VerticalAlignment="Top"/>
+                <TextBox Name="SQLCompactFile" Text="{x:Static p:Resources.DefaultSQLCompactFile}" IsReadOnly="True" HorizontalAlignment="Left" Margin="5,5,5,5" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <Button Name="ButtonOpenFile" Content="Open" HorizontalAlignment="Right" Margin="5,5,5,5" VerticalAlignment="Top" Click="ButtonOpenFile_Click"/>
+            </StackPanel>
+            <StackPanel VerticalAlignment ="Bottom" >
+                <ProgressBar Name="PrBar" Margin="5, 5, 5, 5" MinHeight="10"></ProgressBar>                
+                <Button Content="Import"  Margin="5, 5, 5, 5" Click="Button_Click"/>
+            </StackPanel>
+            <Calendar Name="WICalendar" BorderBrush="Black"></Calendar>
+        </StackPanel>
+        
+                
+    </Grid>
+</Window>
